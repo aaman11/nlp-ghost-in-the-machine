@@ -8,7 +8,7 @@ Theme: NLP
 
 # Author
 
-Name: <YOUR Aaman Raees> 
+Name: <Aaman Raees> 
 Email: <aamanraees022@gmail.com>  
 
 
